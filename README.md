@@ -18,7 +18,7 @@ Comprender los  conceptos basicos, tanto como redes de impedancia como circuitos
 
 2.1 CAPÍTULO 5
 
-
+![marco teorico unidad ca5-1](https://user-images.githubusercontent.com/84783236/122920755-58af4980-d327-11eb-8d58-48a741f09fc2.png)
 
 
 2.2 CAPÍTULO 6
