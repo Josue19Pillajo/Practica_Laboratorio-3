@@ -39,24 +39,16 @@ Comprender los  conceptos basicos, tanto como redes de impedancia como circuitos
 ![CAP 5 PRIMEROS_page-0006](https://user-images.githubusercontent.com/84783236/122872059-85e30400-d2f5-11eb-8402-010044ba5cdd.jpg)
 ![CAP 5 PRIMEROS_page-0007](https://user-images.githubusercontent.com/84783236/122872060-85e30400-d2f5-11eb-9dd2-4a90c0fe03c4.jpg)
 ![CAP 5 PRIMEROS_page-0008](https://user-images.githubusercontent.com/84783236/122872061-867b9a80-d2f5-11eb-9232-1003dca166f3.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![5 20 ultimos_page-0001](https://user-images.githubusercontent.com/84783236/122879505-95b31600-d2fe-11eb-8f61-831a0258b40a.jpg)
+![5 20 ultimos_page-0002](https://user-images.githubusercontent.com/84783236/122879508-964bac80-d2fe-11eb-95d1-d51f1e653e2a.jpg)
+![5 20 ultimos_page-0003](https://user-images.githubusercontent.com/84783236/122879509-964bac80-d2fe-11eb-9b0f-6f2f7ee19788.jpg)
+![5 20 ultimos_page-0004](https://user-images.githubusercontent.com/84783236/122879510-96e44300-d2fe-11eb-871d-096cefcb20a0.jpg)
+![5 20 ultimos_page-0005](https://user-images.githubusercontent.com/84783236/122879513-96e44300-d2fe-11eb-915d-96d7bf96d9d5.jpg)
+![5 20 ultimos_page-0006](https://user-images.githubusercontent.com/84783236/122879514-96e44300-d2fe-11eb-9b39-778b0643ee20.jpg)
+![5 20 ultimos_page-0007](https://user-images.githubusercontent.com/84783236/122879516-977cd980-d2fe-11eb-9f51-a917d0b83582.jpg)
 
 CAPÍTULO 6
+![Capitulo 6 PARTE 2_page-0001](https://user-images.githubusercontent.com/84783236/122879151-32c17f00-d2fe-11eb-8113-66e4d03fbbc3.jpg)
 ![Capitulo 6 PARTE 2_page-0002](https://user-images.githubusercontent.com/84783236/122878008-dd38a280-d2fc-11eb-98e8-e26b907a2385.jpg)
 ![Capitulo 6 PARTE 2_page-0003](https://user-images.githubusercontent.com/84783236/122878013-ddd13900-d2fc-11eb-9380-fc2e68403076.jpg)
 ![Capitulo 6 PARTE 2_page-0004](https://user-images.githubusercontent.com/84783236/122878015-ddd13900-d2fc-11eb-9162-c503e053aae2.jpg)
@@ -73,8 +65,6 @@ CAPÍTULO 6
 ![Capitulo 6 PARTE 2_page-0016](https://user-images.githubusercontent.com/84783236/122878031-e0cc2980-d2fc-11eb-8732-72723b671ad2.jpg)
 ![Capitulo 6 PARTE 2_page-0017](https://user-images.githubusercontent.com/84783236/122878033-e0cc2980-d2fc-11eb-8573-65127adc9ca9.jpg)
 ![Capitulo 6 PARTE 2_page-0018](https://user-images.githubusercontent.com/84783236/122878035-e0cc2980-d2fc-11eb-8249-96be3ab9b85d.jpg)
-![Capitulo 6 PARTE 2_page-0001](https://user-images.githubusercontent.com/84783236/122878036-e164c000-d2fc-11eb-8cb6-ea388baa5cf7.jpg)
-
 
 4. VIDEO
 
