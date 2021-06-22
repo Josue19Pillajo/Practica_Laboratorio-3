@@ -46,15 +46,25 @@ Comprender los  conceptos basicos, tanto como redes de impedancia como circuitos
 ![CAP 5 PRIMEROS_page-0008](https://user-images.githubusercontent.com/84783236/122872061-867b9a80-d2f5-11eb-9232-1003dca166f3.jpg)
 
 CAPITULO 6-
+
 ![1](https://user-images.githubusercontent.com/81887698/122872659-60a2c580-d2f6-11eb-9831-af1c55873cc8.PNG)
+
 ![2](https://user-images.githubusercontent.com/81887698/122872662-613b5c00-d2f6-11eb-8528-d3e4cd3cf6d2.PNG)
+
 ![3](https://user-images.githubusercontent.com/81887698/122872663-61d3f280-d2f6-11eb-8fc0-557f9143deba.PNG)
+
 ![4](https://user-images.githubusercontent.com/81887698/122872664-61d3f280-d2f6-11eb-8ed2-0b346e27e156.PNG)
+
 ![5](https://user-images.githubusercontent.com/81887698/122872665-61d3f280-d2f6-11eb-9265-85120348f4e1.PNG)
+
 ![6](https://user-images.githubusercontent.com/81887698/122872666-626c8900-d2f6-11eb-8a49-2d6744702752.PNG)
+
 ![7](https://user-images.githubusercontent.com/81887698/122872668-626c8900-d2f6-11eb-9c05-c69763c669c8.PNG)
+
 ![8](https://user-images.githubusercontent.com/81887698/122872670-626c8900-d2f6-11eb-9666-d8c9a50f2d1b.PNG)
+
 ![9](https://user-images.githubusercontent.com/81887698/122872671-63051f80-d2f6-11eb-8f93-0cfca840e21d.PNG)
+
 
 
 4. VIDEO
