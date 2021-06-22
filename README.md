@@ -18,20 +18,15 @@ Comprender los  conceptos basicos, tanto como redes de impedancia como circuitos
 
 2.1 CAPÍTULO 5
 
-! [ marco teorico unidad ca5-1 ] (https://user-images.githubusercontent.com/85320165/122863826-21ba4300-d2e9-11eb-84be-efbd6354b4e6.png)
+
 
 
 2.2 CAPÍTULO 6
 
-! [ cicuito 1_11 ] (https://user-images.githubusercontent.com/81887698/122871387-8a5aed00-d2f4-11eb-8a22-ca4847c95e91.PNG)
-
-
-! [ circuitos 2_11 ] (https://user-images.githubusercontent.com/81887698/122871792-238a0380-d2f5-11eb-8fa8-6c0daa01ba74.PNG)
-
-! [ corrinete 3_11 ] (https://user-images.githubusercontent.com/81887698/122871796-2684f400-d2f5-11eb-9856-8cb5d314258e.PNG)
-
-! [ corriente 4_11 ] (https://user-images.githubusercontent.com/81887698/122871814-2be23e80-d2f5-11eb-9238-a62c61ecc0d5.PNG)
-
+![WhatsApp Image 2021-06-22 at 01 24 47 (1)](https://user-images.githubusercontent.com/84783236/122878434-62bc5280-d2fd-11eb-8eb0-6f48b108b2d9.jpeg)
+![WhatsApp Image 2021-06-22 at 01 24 46](https://user-images.githubusercontent.com/84783236/122878467-69e36080-d2fd-11eb-84fe-3cc1eb4e7566.jpeg)
+![WhatsApp Image 2021-06-22 at 01 24 47](https://user-images.githubusercontent.com/84783236/122878483-6e0f7e00-d2fd-11eb-9ea9-bdb809e3d665.jpeg)
+![WhatsApp Image 2021-06-22 at 01 24 47 (2)](https://user-images.githubusercontent.com/84783236/122878736-b169ec80-d2fd-11eb-96ec-1cfb185d2c78.jpeg)
 
 
 3. EJERCICIOS
@@ -45,30 +40,45 @@ Comprender los  conceptos basicos, tanto como redes de impedancia como circuitos
 ![CAP 5 PRIMEROS_page-0007](https://user-images.githubusercontent.com/84783236/122872060-85e30400-d2f5-11eb-9dd2-4a90c0fe03c4.jpg)
 ![CAP 5 PRIMEROS_page-0008](https://user-images.githubusercontent.com/84783236/122872061-867b9a80-d2f5-11eb-9232-1003dca166f3.jpg)
 
-CAPITULO 6-
 
-![1](https://user-images.githubusercontent.com/81887698/122872659-60a2c580-d2f6-11eb-9831-af1c55873cc8.PNG)
 
-![2](https://user-images.githubusercontent.com/81887698/122872662-613b5c00-d2f6-11eb-8528-d3e4cd3cf6d2.PNG)
 
-![3](https://user-images.githubusercontent.com/81887698/122872663-61d3f280-d2f6-11eb-8fc0-557f9143deba.PNG)
 
-![4](https://user-images.githubusercontent.com/81887698/122872664-61d3f280-d2f6-11eb-8ed2-0b346e27e156.PNG)
 
-![5](https://user-images.githubusercontent.com/81887698/122872665-61d3f280-d2f6-11eb-9265-85120348f4e1.PNG)
 
-![6](https://user-images.githubusercontent.com/81887698/122872666-626c8900-d2f6-11eb-8a49-2d6744702752.PNG)
 
-![7](https://user-images.githubusercontent.com/81887698/122872668-626c8900-d2f6-11eb-9c05-c69763c669c8.PNG)
 
-![8](https://user-images.githubusercontent.com/81887698/122872670-626c8900-d2f6-11eb-9666-d8c9a50f2d1b.PNG)
 
-![9](https://user-images.githubusercontent.com/81887698/122872671-63051f80-d2f6-11eb-8f93-0cfca840e21d.PNG)
 
+
+
+
+
+
+
+CAPÍTULO 6
+![Capitulo 6 PARTE 2_page-0002](https://user-images.githubusercontent.com/84783236/122878008-dd38a280-d2fc-11eb-98e8-e26b907a2385.jpg)
+![Capitulo 6 PARTE 2_page-0003](https://user-images.githubusercontent.com/84783236/122878013-ddd13900-d2fc-11eb-9380-fc2e68403076.jpg)
+![Capitulo 6 PARTE 2_page-0004](https://user-images.githubusercontent.com/84783236/122878015-ddd13900-d2fc-11eb-9162-c503e053aae2.jpg)
+![Capitulo 6 PARTE 2_page-0005](https://user-images.githubusercontent.com/84783236/122878016-ddd13900-d2fc-11eb-8bad-b3a061ef76ce.jpg)
+![Capitulo 6 PARTE 2_page-0006](https://user-images.githubusercontent.com/84783236/122878018-de69cf80-d2fc-11eb-914a-9bf601d1b678.jpg)
+![Capitulo 6 PARTE 2_page-0007](https://user-images.githubusercontent.com/84783236/122878020-df026600-d2fc-11eb-94ad-6cbef3e69195.jpg)
+![Capitulo 6 PARTE 2_page-0009](https://user-images.githubusercontent.com/84783236/122878021-df026600-d2fc-11eb-97d4-81afd0580480.jpg)
+![Capitulo 6 PARTE 2_page-0010](https://user-images.githubusercontent.com/84783236/122878022-df026600-d2fc-11eb-9898-13de29913138.jpg)
+![Capitulo 6 PARTE 2_page-0011](https://user-images.githubusercontent.com/84783236/122878023-df9afc80-d2fc-11eb-8b85-973171a522be.jpg)
+![Capitulo 6 PARTE 2_page-0012](https://user-images.githubusercontent.com/84783236/122878025-df9afc80-d2fc-11eb-879d-50e73267c851.jpg)
+![Capitulo 6 PARTE 2_page-0013](https://user-images.githubusercontent.com/84783236/122878026-df9afc80-d2fc-11eb-889a-ce2389a9b008.jpg)
+![Capitulo 6 PARTE 2_page-0014](https://user-images.githubusercontent.com/84783236/122878027-e0339300-d2fc-11eb-99c1-4a7d82b9c266.jpg)
+![Capitulo 6 PARTE 2_page-0015](https://user-images.githubusercontent.com/84783236/122878030-e0339300-d2fc-11eb-87fb-83414f565b6d.jpg)
+![Capitulo 6 PARTE 2_page-0016](https://user-images.githubusercontent.com/84783236/122878031-e0cc2980-d2fc-11eb-8732-72723b671ad2.jpg)
+![Capitulo 6 PARTE 2_page-0017](https://user-images.githubusercontent.com/84783236/122878033-e0cc2980-d2fc-11eb-8573-65127adc9ca9.jpg)
+![Capitulo 6 PARTE 2_page-0018](https://user-images.githubusercontent.com/84783236/122878035-e0cc2980-d2fc-11eb-8249-96be3ab9b85d.jpg)
+![Capitulo 6 PARTE 2_page-0001](https://user-images.githubusercontent.com/84783236/122878036-e164c000-d2fc-11eb-8cb6-ea388baa5cf7.jpg)
 
 
 4. VIDEO
 
+https://www.youtube.com/watch?v=UzhjUoBc71A
 
 5. CONCLUSIONES
 
