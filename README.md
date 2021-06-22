@@ -1,26 +1,41 @@
-# Practica_Laboratorio-3
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-MARCO TERICO
+Integrantes: Josue Pillajo, Bryan Simbaña, Johan Taipicaña, Nayeli Tisalema
 
-![marco teorico unidad ca5-1](https://user-images.githubusercontent.com/85320165/122863826-21ba4300-d2e9-11eb-84be-efbd6354b4e6.png)
+1.OBJETIVOS
 
+1.1.Objetivo general
 
-CALCULOS
+Analizar las temas proporcionados del capitulo 5 y 6  en conjunto con la realización  de los ejercicios proporcionados del mismo.
 
-![pares 20 primeros cap 5-1](https://user-images.githubusercontent.com/85320165/122863859-2ed73200-d2e9-11eb-8407-e4dd199e2b71.png)
+1.2. Objetivo especifico
 
-![pares 20 primeros cap 5-2](https://user-images.githubusercontent.com/85320165/122863870-339be600-d2e9-11eb-8626-bbe4a7523493.png)
+Ejecutar los ejercicios  correspondientes a las tematicas de los capitulos 5 y 6 . 
 
-![pares 20 primeros cap 5-3](https://user-images.githubusercontent.com/85320165/122863887-3b5b8a80-d2e9-11eb-9395-fb4fc77eb213.png)
+Comprender los  conceptos basicos, tanto como redes de impedancia como circuitos en paralelo.
 
-![pares 20 primeros cap 5-4](https://user-images.githubusercontent.com/85320165/122863894-3eef1180-d2e9-11eb-96c6-34fd8e0125de.png)
+2. MARCO TEÓRICO
 
-![pares 20 primeros cap 5-5](https://user-images.githubusercontent.com/85320165/122863906-431b2f00-d2e9-11eb-9987-2af7cf01356e.png)
+2.1 CAPÍTULO 5
 
-![pares 20 primeros cap 5-6](https://user-images.githubusercontent.com/85320165/122863921-4c0c0080-d2e9-11eb-98c2-8b8f11099104.png)
-
-![pares 20 primeros cap 5-7](https://user-images.githubusercontent.com/85320165/122863941-56c69580-d2e9-11eb-8381-db9802c50554.png)
-
-![pares 20 primeros cap 5-8](https://user-images.githubusercontent.com/85320165/122863950-5a5a1c80-d2e9-11eb-89af-cb9016a70bff.png)
+! [ marco teorico unidad ca5-1 ] (https://user-images.githubusercontent.com/85320165/122863826-21ba4300-d2e9-11eb-84be-efbd6354b4e6.png)
 
 
+2.2 CAPÍTULO 6
+
+3. EJERCICIOS
+
+UNIDAD 5
+
+UNIDAD 6
+
+4. VIDEO
+
+
+5. CONCLUSIONES
+
+Realizamos los ejercicios sin ninguna dificultad , pero sobre todo comprendimos los temas propuestos en estas unidades y mejoramos nuestra habilidades y destrezas para  la solución de ejercicios  relacionados a circuitos electricos  y  aumentamos mas nuestro conocimiento con temas nuevos y encaminados a nuestra carrera.
+
+6. BIBLIOGRAFIA
+
+Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
