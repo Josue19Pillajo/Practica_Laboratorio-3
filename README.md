@@ -23,12 +23,14 @@ Comprender los  conceptos basicos, tanto como redes de impedancia como circuitos
 
 2.2 CAPÍTULO 6
 
+! [ cicuito 1_11 ] (https://user-images.githubusercontent.com/81887698/122871387-8a5aed00-d2f4-11eb-8a22-ca4847c95e91.PNG)
 
 
+! [ circuitos 2_11 ] (https://user-images.githubusercontent.com/81887698/122871792-238a0380-d2f5-11eb-8fa8-6c0daa01ba74.PNG)
 
+! [ corrinete 3_11 ] (https://user-images.githubusercontent.com/81887698/122871796-2684f400-d2f5-11eb-9856-8cb5d314258e.PNG)
 
-
-
+! [ corriente 4_11 ] (https://user-images.githubusercontent.com/81887698/122871814-2be23e80-d2f5-11eb-9238-a62c61ecc0d5.PNG)
 
 
 
